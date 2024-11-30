@@ -2,6 +2,8 @@ https://<username>.github.io/<repository>/path/to/your/jsonfile.json
 
 
 **https://github.com/felixiao/TVBoxSource
+https://h23test.github.io/web-summary/自用单仓.json
+一木自用
  
 https://github.com/jinenge/tvbox/blob/main/README.md
 https://github.com/scovis/TVBox
