@@ -1,3 +1,6 @@
+https://<username>.github.io/<repository>/path/to/your/jsonfile.json
+
+ 
 https://github.com/jinenge/tvbox/blob/main/README.md
 https://github.com/scovis/TVBox
 
